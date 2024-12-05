@@ -1,6 +1,6 @@
 # Proyecto de Investigacion
 
-## PASOS PARA LA EJECUCION DEL SCRIPT
+## PASOS PARA LA EJECUCION DEL SCRIPT scannerG1.py
 
 Creamos el ambiente controlado de python con los comandos:
 
